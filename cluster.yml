@@ -1,5 +1,5 @@
 # If you intended to deploy Kubernetes in an air-gapped environment,
-# please consult the documentation on how to configure custom RKE images.
+# please consult the documentation on how to configure custom RKE images....
 nodes:
 - address: rancher-2
   port: "22"
